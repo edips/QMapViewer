@@ -1,0 +1,2 @@
+# QMapViewer
+Displays QGIS projects
