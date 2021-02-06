@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/mapviewer/QMapViewer.qml</file>
+        <file>qml/mapviewer/QMapViewerHelp.qml</file>
+        <file>qml/mapviewer/components/CustomComboBox.qml</file>
+        <file>qml/mapviewer/components/mapviewer.js</file>
+        <file>qml/mapviewer/components/ExternalResourceBundle.qml</file>
+        <file>qml/mapviewer/components/FullMapBtn.qml</file>
+        <file>qml/mapviewer/components/LayerPanel.qml</file>
+        <file>qml/mapviewer/components/MapView.qml</file>
+        <file>qml/mapviewer/components/RecordCrosshair.qml</file>
+        <file>qml/mapviewer/components/ScaleBar.qml</file>
+        <file>qml/mapviewer/components/SettingsDialog.qml</file>
+        <file>qml/mapviewer/components/STextField.qml</file>
+        <file>qml/mapviewer/components/TopSheet.qml</file>
+        <file>qml/mapviewer/components/mapview/NoProject.qml</file>
+        <file>qml/mapviewer/components/mapview/ProjectDelegate.qml</file>
+        <file>qml/mapviewer/components/FeaturePanel.qml</file>
+        <file>qml/mapviewer/components/SErrorDialog.qml</file>
+        <file>qml/mapviewer/components/SFlickable.qml</file>
+        <file>qml/mapviewer/components/SBusyIndicator.qml</file>
+        <file>qml/mapviewer/components/SText.qml</file>
+        <file>qml/mapviewer/components/RoundBtn.qml</file>
+        <file>qml/mapviewer/components/STextHelp.qml</file>
+        <file>qml/mapviewer/components/SColumnHelp.qml</file>
+        <file>qml/mapviewer/components/STextTop.qml</file>
+        <file>qml/mapviewer/components/DialogAbout.qml</file>
+    </qresource>
+</RCC>

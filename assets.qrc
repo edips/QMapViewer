@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/fonts/Lato-Regular.ttf</file>
+        <file>assets/fonts/Lato-Bold.ttf</file>
+        <file>assets/icons/folder.svg</file>
+        <file>assets/icons/gps_fixed.svg</file>
+        <file>assets/icons/help_outline.svg</file>
+        <file>assets/icons/info_outline.svg</file>
+        <file>assets/icons/layers.svg</file>
+        <file>assets/icons/mIconLineLayer.svg</file>
+        <file>assets/icons/mIconPointLayer.svg</file>
+        <file>assets/icons/mIconPolygonLayer.svg</file>
+        <file>assets/icons/mIconRaster.svg</file>
+        <file>assets/icons/mIconTableLayer.svg</file>
+        <file>assets/icons/more_vert.svg</file>
+        <file>assets/icons/settings.svg</file>
+        <file>assets/icons/zoom_out_map.svg</file>
+        <file>assets/images/delete.png</file>
+        <file>assets/images/layers.svg</file>
+        <file>assets/images/scale.png</file>
+        <file>assets/images/scale_end.png</file>
+        <file>assets/images/help/mapviewer/mv1.png</file>
+        <file>assets/images/help/mapviewer/mv2.png</file>
+        <file>assets/images/help/mapviewer/mv3.png</file>
+        <file>assets/images/help/mapviewer/mv4.png</file>
+        <file>assets/icons/map.svg</file>
+        <file>assets/icons/navigation.svg</file>
+        <file>assets/icons/close.svg</file>
+        <file>assets/icons/star_border.svg</file>
+        <file>assets/icons/fullscreen.svg</file>
+        <file>assets/icons/fullscreen_exit.svg</file>
+        <file>assets/icons/check_box.svg</file>
+        <file>assets/icons/check_box_outline_blank.svg</file>
+        <file>assets/icons/delete_forever.svg</file>
+        <file>assets/icons/mode_edit.svg</file>
+        <file>assets/icons/save.svg</file>
+    </qresource>
+</RCC>
